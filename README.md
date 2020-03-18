@@ -1,2 +1,2 @@
 # Intro-to-Machine-Learning
-Some Machine Learning Projects 
+Some Machine Learning Mini Projects 
