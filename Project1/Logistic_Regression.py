@@ -352,3 +352,4 @@ class Logistic_Regression:
 	def logistic_function(self, logit):
 		return 1.0 / (1.0 + math.e**(-logit))
 
+	
