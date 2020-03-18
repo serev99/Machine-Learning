@@ -259,3 +259,4 @@ class Naive_Bayes:
         # print(t_trainAccuracy/k)
         return t_accuracy/k
         # return(t_trainAccuracy/k)
+        
